@@ -2,7 +2,7 @@
 
 const AddStudent = () => {
     return (
-        <div>
+        <div className="">
             this add Student
         </div>
     );
